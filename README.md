@@ -1,3 +1,14 @@
+# Whatsapp-Clone App
+
+![alt text](https://github.com/shaileshnit/COVID-tracker/blob/master/Demo%20Images/CovidTracker0.png?raw=true)
+
+<br>
+
+![alt text](https://github.com/shaileshnit/COVID-tracker/blob/master/Demo%20Images/CovidTracker.png?raw=true)
+
+<br>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
